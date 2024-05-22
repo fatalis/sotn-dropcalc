@@ -1,0 +1,939 @@
+[
+{
+    "name": "Axe Knight (Lv9)",
+    "id": 6,
+    "base_rate": 64,
+    "rare_name": "AxeLord shield",
+    "rare_rate": 2,
+    "uncommon_name": "Axe (subweapon)",
+    "uncommon_rate": 16
+}, {
+    "name": "Sword Lord",
+    "id": 9,
+    "base_rate": 64,
+    "rare_name": "Bekatowa",
+    "rare_rate": 8,
+    "uncommon_name": "Cutlass",
+    "uncommon_rate": 16
+}, {
+    "name": "Skelerang",
+    "id": 11,
+    "base_rate": 64,
+    "rare_name": "Fire boomerang",
+    "rare_rate": 4,
+    "uncommon_name": "Boomerang",
+    "uncommon_rate": 16
+}, {
+    "name": "Bloody Zombie",
+    "id": 13,
+    "base_rate": 64,
+    "rare_name": "Basilard",
+    "rare_rate": 16,
+    "uncommon_name": "Cloth tunic",
+    "uncommon_rate": 32
+}, {
+    "name": "Flying Zombie",
+    "id": 14,
+    "base_rate": 64,
+    "rare_name": "Frankfurter",
+    "rare_rate": 8,
+    "uncommon_name": "Shuriken",
+    "uncommon_rate": 16
+}, {
+    "name": "Diplocephalus",
+    "id": 16,
+    "base_rate": 64,
+    "rare_name": "Tart",
+    "rare_rate": 6,
+    "uncommon_name": "Pentagram",
+    "uncommon_rate": 8
+}, {
+    "name": "Owl Knight",
+    "id": 20,
+    "base_rate": 64,
+    "rare_name": "Medal",
+    "rare_rate": 8,
+    "uncommon_name": "Cutlass",
+    "uncommon_rate": 16
+}, {
+    "name": "Lesser Demon",
+    "id": 23,
+    "base_rate": 64,
+    "rare_name": "Holbein dagger",
+    "rare_rate": 8,
+    "uncommon_name": "Obsidian sword",
+    "uncommon_rate": 8
+}, {
+    "name": "Merman (Lv2)",
+    "id": 27,
+    "base_rate": 16,
+    "rare_name": "Monster vial 1",
+    "rare_rate": 8,
+    "uncommon_name": "Zircon",
+    "uncommon_rate": 12
+}, {
+    "name": "Merman (Lv3)",
+    "id": 29,
+    "base_rate": 16,
+    "rare_name": "Monster vial 1",
+    "rare_rate": 8,
+    "uncommon_name": "Zircon",
+    "uncommon_rate": 16
+}, {
+    "name": "Gorgon",
+    "id": 31,
+    "base_rate": 64,
+    "rare_name": "Stone sword",
+    "rare_rate": 8,
+    "uncommon_name": "Hammer",
+    "uncommon_rate": 20
+}, {
+    "name": "Armor Lord",
+    "id": 34,
+    "base_rate": 64,
+    "rare_name": "Saber",
+    "rare_rate": 8,
+    "uncommon_name": "Rapier",
+    "uncommon_rate": 16
+}, {
+    "name": "Black Panther",
+    "id": 37,
+    "base_rate": 64,
+    "rare_name": "Masamune",
+    "rare_rate": 1,
+    "uncommon_name": "Meal ticket",
+    "uncommon_rate": 16
+}, {
+    "name": "Dark Octopus",
+    "id": 38,
+    "base_rate": 64,
+    "rare_name": "Green tea",
+    "rare_rate": 10,
+    "uncommon_name": "Sushi",
+    "uncommon_rate": 16
+}, {
+    "name": "Flea Man",
+    "id": 40,
+    "base_rate": 32,
+    "rare_name": "Cheese",
+    "rare_rate": 8,
+    "uncommon_name": "Takemitsu",
+    "uncommon_rate": 16
+}, {
+    "name": "Flea Armor",
+    "id": 41,
+    "base_rate": 64,
+    "rare_name": "Iron cuirass",
+    "rare_rate": 8,
+    "uncommon_name": "High potion",
+    "uncommon_rate": 10
+}, {
+    "name": "Bone Ark (moving)",
+    "id": 45,
+    "base_rate": 32,
+    "rare_name": "Skull shield",
+    "rare_rate": 4,
+    "uncommon_name": "Monster vial 3",
+    "uncommon_rate": 16
+}, {
+    "name": "Bone Ark",
+    "id": 46,
+    "base_rate": 32,
+    "rare_name": "",
+    "rare_rate": 0,
+    "uncommon_name": "Monster vial 3",
+    "uncommon_rate": 4
+}, {
+    "name": "Flea Rider",
+    "id": 48,
+    "base_rate": 32,
+    "rare_name": "Ham and eggs",
+    "rare_rate": 6,
+    "uncommon_name": "Turkey",
+    "uncommon_rate": 16
+}, {
+    "name": "Marionette",
+    "id": 49,
+    "base_rate": 64,
+    "rare_name": "Circlet",
+    "rare_rate": 16,
+    "uncommon_name": "Smart potion",
+    "uncommon_rate": 24
+}, {
+    "name": "Wereskeleton",
+    "id": 61,
+    "base_rate": 64,
+    "rare_name": "Garnet",
+    "rare_rate": 4,
+    "uncommon_name": "Str. potion",
+    "uncommon_rate": 24
+}, {
+    "name": "Bat",
+    "id": 64,
+    "base_rate": 32,
+    "rare_name": "Monster vial 2",
+    "rare_rate": 6,
+    "uncommon_name": "Potion",
+    "uncommon_rate": 24
+}, {
+    "name": "Phantom Skull",
+    "id": 67,
+    "base_rate": 64,
+    "rare_name": "Resist dark",
+    "rare_rate": 16,
+    "uncommon_name": "Felt hat",
+    "uncommon_rate": 16
+}, {
+    "name": "Flail Guard",
+    "id": 68,
+    "base_rate": 64,
+    "rare_name": "Pot roast",
+    "rare_rate": 8,
+    "uncommon_name": "Morningstar",
+    "uncommon_rate": 16
+}, {
+    "name": "Hellfire Beast",
+    "id": 71,
+    "base_rate": 64,
+    "rare_name": "Fire mail",
+    "rare_rate": 3,
+    "uncommon_name": "Lightning mail",
+    "uncommon_rate": 4
+}, {
+    "name": "Skeleton",
+    "id": 75,
+    "base_rate": 32,
+    "rare_name": "Monster vial 3",
+    "rare_rate": 16,
+    "uncommon_name": "Shield potion",
+    "uncommon_rate": 24
+}, {
+    "name": "Discus Lord",
+    "id": 77,
+    "base_rate": 64,
+    "rare_name": "Jewel sword",
+    "rare_rate": 32,
+    "uncommon_name": "Chakram",
+    "uncommon_rate": 16
+}, {
+    "name": "Fire Demon",
+    "id": 79,
+    "base_rate": 64,
+    "rare_name": "Marsil",
+    "rare_rate": 4,
+    "uncommon_name": "Fire shield",
+    "uncommon_rate": 6
+}, {
+    "name": "Skeleton Ape",
+    "id": 83,
+    "base_rate": 64,
+    "rare_name": "TNT",
+    "rare_rate": 8,
+    "uncommon_name": "Banana",
+    "uncommon_rate": 24
+}, {
+    "name": "Stone Rose",
+    "id": 85,
+    "base_rate": 64,
+    "rare_name": "Meal ticket",
+    "rare_rate": 8,
+    "uncommon_name": "Leather shield",
+    "uncommon_rate": 16
+}, {
+    "name": "Ectoplasm",
+    "id": 88,
+    "base_rate": 64,
+    "rare_name": "Manna prism",
+    "rare_rate": 2,
+    "uncommon_name": "Uncurse",
+    "uncommon_rate": 32
+}, {
+    "name": "Spear Guard",
+    "id": 93,
+    "base_rate": 64,
+    "rare_name": "Iron cuirass",
+    "rare_rate": 12,
+    "uncommon_name": "Javelin",
+    "uncommon_rate": 16
+}, {
+    "name": "Plate Lord",
+    "id": 97,
+    "base_rate": 64,
+    "rare_name": "Neutron bomb",
+    "rare_rate": 8,
+    "uncommon_name": "Iron ball",
+    "uncommon_rate": 16
+}, {
+    "name": "Frozen Shade",
+    "id": 99,
+    "base_rate": 64,
+    "rare_name": "Ice cream",
+    "rare_rate": 6,
+    "uncommon_name": "Ice mail",
+    "uncommon_rate": 12
+}, {
+    "name": "Bone Musket",
+    "id": 102,
+    "base_rate": 32,
+    "rare_name": "Talisman",
+    "rare_rate": 1,
+    "uncommon_name": "Magic Missile",
+    "uncommon_rate": 8
+}, {
+    "name": "Dodo Bird",
+    "id": 104,
+    "base_rate": 64,
+    "rare_name": "Runesword",
+    "rare_rate": 2,
+    "uncommon_name": "Heart broach",
+    "uncommon_rate": 8
+}, {
+    "name": "Bone Scimitar",
+    "id": 105,
+    "base_rate": 64,
+    "rare_name": "Red Rust",
+    "rare_rate": 16,
+    "uncommon_name": "Short sword",
+    "uncommon_rate": 32
+}, {
+    "name": "Toad",
+    "id": 106,
+    "base_rate": 32,
+    "rare_name": "Pizza",
+    "rare_rate": 8,
+    "uncommon_name": "Blue knuckles",
+    "uncommon_rate": 8
+}, {
+    "name": "Frog",
+    "id": 107,
+    "base_rate": 32,
+    "rare_name": "Pizza",
+    "rare_rate": 8,
+    "uncommon_name": "Knuckle duster",
+    "uncommon_rate": 24
+}, {
+    "name": "Bone Archer",
+    "id": 108,
+    "base_rate": 64,
+    "rare_name": "Magic Missile",
+    "rare_rate": 16,
+    "uncommon_name": "$400",
+    "uncommon_rate": 32
+}, {
+    "name": "Zombie",
+    "id": 110,
+    "base_rate": 16,
+    "rare_name": "Cloth tunic",
+    "rare_rate": 24,
+    "uncommon_name": "$100",
+    "uncommon_rate": 16
+}, {
+    "name": "Grave Keeper",
+    "id": 111,
+    "base_rate": 64,
+    "rare_name": "Natou",
+    "rare_rate": 6,
+    "uncommon_name": "Miso soup",
+    "uncommon_rate": 8
+}, {
+    "name": "Tombstone",
+    "id": 113,
+    "base_rate": 64,
+    "rare_name": "Green tea",
+    "rare_rate": 6,
+    "uncommon_name": "Katana",
+    "uncommon_rate": 16
+}, {
+    "name": "Blue Raven",
+    "id": 114,
+    "base_rate": 32,
+    "rare_name": "Pork bun",
+    "rare_rate": 6,
+    "uncommon_name": "Zircon",
+    "uncommon_rate": 24
+}, {
+    "name": "Black Crow",
+    "id": 115,
+    "base_rate": 32,
+    "rare_name": "Red bean bun",
+    "rare_rate": 6,
+    "uncommon_name": "Aquamarine",
+    "uncommon_rate": 24
+}, {
+    "name": "Jack O'Bones",
+    "id": 116,
+    "base_rate": 64,
+    "rare_name": "Flame star",
+    "rare_rate": 4,
+    "uncommon_name": "Shuriken",
+    "uncommon_rate": 8
+}, {
+    "name": "Bone Halberd",
+    "id": 118,
+    "base_rate": 64,
+    "rare_name": "Ham and eggs",
+    "rare_rate": 6,
+    "uncommon_name": "Javelin",
+    "uncommon_rate": 8
+}, {
+    "name": "Yorick",
+    "id": 120,
+    "base_rate": 64,
+    "rare_name": "Skull shield",
+    "rare_rate": 16,
+    "uncommon_name": "Monster vial 3",
+    "uncommon_rate": 32
+}, {
+    "name": "Skull",
+    "id": 121,
+    "base_rate": 64,
+    "rare_name": "Turquoise",
+    "rare_rate": 16,
+    "uncommon_name": "Iron ball",
+    "uncommon_rate": 16
+}, {
+    "name": "Blade Master",
+    "id": 122,
+    "base_rate": 64,
+    "rare_name": "Cross shuriken",
+    "rare_rate": 4,
+    "uncommon_name": "Shotel",
+    "uncommon_rate": 8
+}, {
+    "name": "Blade Soldier",
+    "id": 124,
+    "base_rate": 64,
+    "rare_name": "Namakura",
+    "rare_rate": 16,
+    "uncommon_name": "$400",
+    "uncommon_rate": 32
+}, {
+    "name": "Nova Skeleton",
+    "id": 126,
+    "base_rate": 64,
+    "rare_name": "Terminus Est",
+    "rare_rate": 6,
+    "uncommon_name": "Monster vial 3",
+    "uncommon_rate": 48
+}, {
+    "name": "Winged Guard",
+    "id": 128,
+    "base_rate": 32,
+    "rare_name": "Javelin",
+    "rare_rate": 4,
+    "uncommon_name": "Iron shield",
+    "uncommon_rate": 10
+}, {
+    "name": "Spectral Sword (Lv13)",
+    "id": 129,
+    "base_rate": 64,
+    "rare_name": "Bastard sword",
+    "rare_rate": 4,
+    "uncommon_name": "Broadsword",
+    "uncommon_rate": 16
+}, {
+    "name": "Poltergeist (Spectral Sword Lv13)",
+    "id": 130,
+    "base_rate": 64,
+    "rare_name": "",
+    "rare_rate": 0,
+    "uncommon_name": "Bwaka knife",
+    "uncommon_rate": 8
+}, {
+    "name": "Lossoth",
+    "id": 131,
+    "base_rate": 64,
+    "rare_name": "Firebrand",
+    "rare_rate": 8,
+    "uncommon_name": "Sirloin",
+    "uncommon_rate": 12
+}, {
+    "name": "Valhalla Knight",
+    "id": 133,
+    "base_rate": 64,
+    "rare_name": "Claymore",
+    "rare_rate": 8,
+    "uncommon_name": "Estoc",
+    "uncommon_rate": 16
+}, {
+    "name": "Spectral Sword (Lv15)",
+    "id": 136,
+    "base_rate": 64,
+    "rare_name": "Bastard sword",
+    "rare_rate": 4,
+    "uncommon_name": "Broadsword",
+    "uncommon_rate": 16
+}, {
+    "name": "Puppet Sword (Spectral Sword Lv15)",
+    "id": 137,
+    "base_rate": 64,
+    "rare_name": "",
+    "rare_rate": 0,
+    "uncommon_name": "Takemitsu",
+    "uncommon_rate": 16
+}, {
+    "name": "Spectral Sword (Lv36)",
+    "id": 138,
+    "base_rate": 64,
+    "rare_name": "Mablung Sword",
+    "rare_rate": 2,
+    "uncommon_name": "Gurthang",
+    "uncommon_rate": 16
+}, {
+    "name": "Spear (Spectral Sword Lv36)",
+    "id": 139,
+    "base_rate": 64,
+    "rare_name": "",
+    "rare_rate": 0,
+    "uncommon_name": "Javelin",
+    "uncommon_rate": 32
+}, {
+    "name": "Shield (Spectral Sword Lv36)",
+    "id": 140,
+    "base_rate": 64,
+    "rare_name": "",
+    "rare_rate": 0,
+    "uncommon_name": "Knight shield",
+    "uncommon_rate": 32
+}, {
+    "name": "Orobourous",
+    "id": 141,
+    "base_rate": 64,
+    "rare_name": "Lapis lazuli",
+    "rare_rate": 4,
+    "uncommon_name": "Karma Coin",
+    "uncommon_rate": 16
+}, {
+    "name": "Dhuron",
+    "id": 146,
+    "base_rate": 64,
+    "rare_name": "Rapier",
+    "rare_rate": 8,
+    "uncommon_name": "Hide cuirass",
+    "uncommon_rate": 32
+}, {
+    "name": "Fire Warg",
+    "id": 148,
+    "base_rate": 64,
+    "rare_name": "Karma Coin",
+    "rare_rate": 4,
+    "uncommon_name": "Turquoise",
+    "uncommon_rate": 20
+}, {
+    "name": "Cave Troll",
+    "id": 153,
+    "base_rate": 64,
+    "rare_name": "Nauglamir",
+    "rare_rate": 16,
+    "uncommon_name": "Neutron bomb",
+    "uncommon_rate": 32
+}, {
+    "name": "Ghost",
+    "id": 156,
+    "base_rate": 16,
+    "rare_name": "Antivenom",
+    "rare_rate": 8,
+    "uncommon_name": "$400",
+    "uncommon_rate": 16
+}, {
+    "name": "Thornweed",
+    "id": 157,
+    "base_rate": 32,
+    "rare_name": "Strawberry",
+    "rare_rate": 8,
+    "uncommon_name": "Grapes",
+    "uncommon_rate": 16
+}, {
+    "name": "Corpseweed",
+    "id": 158,
+    "base_rate": 64,
+    "rare_name": "Potion",
+    "rare_rate": 4,
+    "uncommon_name": "Antivenom",
+    "uncommon_rate": 8
+}, {
+    "name": "Corpseweed",
+    "id": 159,
+    "base_rate": 64,
+    "rare_name": "Potion",
+    "rare_rate": 8,
+    "uncommon_name": "Antivenom",
+    "uncommon_rate": 16
+}, {
+    "name": "Venus Weed (100HP)",
+    "id": 161,
+    "base_rate": 64,
+    "rare_name": "Heart Refresh",
+    "rare_rate": 8,
+    "uncommon_name": "Coral circlet ",
+    "uncommon_rate": 32
+}, {
+    "name": "Venus Weed (500HP)",
+    "id": 162,
+    "base_rate": 64,
+    "rare_name": "Heart Refresh",
+    "rare_rate": 2,
+    "uncommon_name": "Coral circlet ",
+    "uncommon_rate": 8
+}, {
+    "name": "Bomb Knight",
+    "id": 165,
+    "base_rate": 64,
+    "rare_name": "Dynamite",
+    "rare_rate": 8,
+    "uncommon_name": "TNT",
+    "uncommon_rate": 16
+}, {
+    "name": "Rock Knight",
+    "id": 167,
+    "base_rate": 64,
+    "rare_name": "Platinum mail",
+    "rare_rate": 8,
+    "uncommon_name": "Jewel knuckles",
+    "uncommon_rate": 16
+}, {
+    "name": "Slinger",
+    "id": 178,
+    "base_rate": 64,
+    "rare_name": "Knight shield",
+    "rare_rate": 4,
+    "uncommon_name": "Leather shield",
+    "uncommon_rate": 24
+}, {
+    "name": "Corner Guard",
+    "id": 180,
+    "base_rate": 64,
+    "rare_name": "Damascus sword",
+    "rare_rate": 4,
+    "uncommon_name": "Cutlass",
+    "uncommon_rate": 16
+}, {
+    "name": "Bitterfly",
+    "id": 182,
+    "base_rate": 64,
+    "rare_name": "Mystic pendant",
+    "rare_rate": 16,
+    "uncommon_name": "Luck potion",
+    "uncommon_rate": 48
+}, {
+    "name": "Bone Pillar",
+    "id": 183,
+    "base_rate": 64,
+    "rare_name": "Ballroom mask",
+    "rare_rate": 12,
+    "uncommon_name": "Antivenom",
+    "uncommon_rate": 13
+}, {
+    "name": "Spiked Ball (Bone Pillar)",
+    "id": 185,
+    "base_rate": 64,
+    "rare_name": "Axe Lord armor",
+    "rare_rate": 1,
+    "uncommon_name": "Iron ball",
+    "uncommon_rate": 255
+}, {
+    "name": "Hammer",
+    "id": 186,
+    "base_rate": 64,
+    "rare_name": "Gold plate",
+    "rare_rate": 4,
+    "uncommon_name": "Hammer",
+    "uncommon_rate": 32
+}, {
+    "name": "Gurkha",
+    "id": 188,
+    "base_rate": 64,
+    "rare_name": "Gold plate",
+    "rare_rate": 4,
+    "uncommon_name": "Combat knife",
+    "uncommon_rate": 8
+}, {
+    "name": "Blade",
+    "id": 190,
+    "base_rate": 64,
+    "rare_name": "Gold plate",
+    "rare_rate": 4,
+    "uncommon_name": "Hunter sword",
+    "uncommon_rate": 16
+}, {
+    "name": "Ouija Table",
+    "id": 193,
+    "base_rate": 64,
+    "rare_name": "Morning set",
+    "rare_rate": 8,
+    "uncommon_name": "Barley tea",
+    "uncommon_rate": 8
+}, {
+    "name": "Sniper of Goth",
+    "id": 195,
+    "base_rate": 64,
+    "rare_name": "Brilliant mail",
+    "rare_rate": 2,
+    "uncommon_name": "Magic Missile",
+    "uncommon_rate": 32
+}, {
+    "name": "Paranthropus",
+    "id": 211,
+    "base_rate": 64,
+    "rare_name": "Turquoise / Ring of Varda",
+    "rare_rate": 8,
+    "uncommon_name": "Gauntlet",
+    "uncommon_rate": 16
+}, {
+    "name": "Ghost Dancer",
+    "id": 216,
+    "base_rate": 64,
+    "rare_name": "Stone mask",
+    "rare_rate": 16,
+    "uncommon_name": "Buffalo star",
+    "uncommon_rate": 24
+}, {
+    "name": "Frozen Half",
+    "id": 217,
+    "base_rate": 64,
+    "rare_name": "Opal circlet",
+    "rare_rate": 6,
+    "uncommon_name": "Necklace of J",
+    "uncommon_rate": 16
+}, {
+    "name": "Salem Witch",
+    "id": 221,
+    "base_rate": 64,
+    "rare_name": "Shortcake",
+    "rare_rate": 5,
+    "uncommon_name": "Gold circlet",
+    "uncommon_rate": 8
+}, {
+    "name": "Azaghal",
+    "id": 224,
+    "base_rate": 64,
+    "rare_name": "Mourneblade",
+    "rare_rate": 4,
+    "uncommon_name": "Covenant stone",
+    "uncommon_rate": 12
+}, {
+    "name": "Gremlin",
+    "id": 225,
+    "base_rate": 64,
+    "rare_name": "Fire mail",
+    "rare_rate": 2,
+    "uncommon_name": "Resist fire",
+    "uncommon_rate": 32
+}, {
+    "name": "Hunting Girl",
+    "id": 227,
+    "base_rate": 64,
+    "rare_name": "Cheesecake",
+    "rare_rate": 6,
+    "uncommon_name": "Were Bane",
+    "uncommon_rate": 12
+}, {
+    "name": "Vandal Sword",
+    "id": 228,
+    "base_rate": 64,
+    "rare_name": "Muramasa",
+    "rare_rate": 2,
+    "uncommon_name": "Holy sword",
+    "uncommon_rate": 4
+}, {
+    "name": "Salome",
+    "id": 229,
+    "base_rate": 64,
+    "rare_name": "Manna prism",
+    "rare_rate": 6,
+    "uncommon_name": "Wizard hat",
+    "uncommon_rate": 8
+}, {
+    "name": "Ctulhu",
+    "id": 233,
+    "base_rate": 64,
+    "rare_name": "Bat Pentagram",
+    "rare_rate": 3,
+    "uncommon_name": "Pentagram",
+    "uncommon_rate": 5
+}, {
+    "name": "Malachi",
+    "id": 236,
+    "base_rate": 64,
+    "rare_name": "Dark armor",
+    "rare_rate": 4,
+    "uncommon_name": "Dark shield",
+    "uncommon_rate": 8
+}, {
+    "name": "Harpy",
+    "id": 239,
+    "base_rate": 64,
+    "rare_name": "Life apple",
+    "rare_rate": 2,
+    "uncommon_name": "Apple",
+    "uncommon_rate": 16
+}, {
+    "name": "Axe Knight (Lv4)",
+    "id": 246,
+    "base_rate": 64,
+    "rare_name": "Bronze cuirass",
+    "rare_rate": 4,
+    "uncommon_name": "Axe (subweapon)",
+    "uncommon_rate": 16
+}, {
+    "name": "Spellbook",
+    "id": 247,
+    "base_rate": 64,
+    "rare_name": "Pentagram",
+    "rare_rate": 2,
+    "uncommon_name": "$1000",
+    "uncommon_rate": 8
+}, {
+    "name": "Magic Tome",
+    "id": 251,
+    "base_rate": 64,
+    "rare_name": "Saber",
+    "rare_rate": 4,
+    "uncommon_name": "$2000",
+    "uncommon_rate": 4
+}, {
+    "name": "Skull Lord",
+    "id": 261,
+    "base_rate": 64,
+    "rare_name": "Skull shield",
+    "rare_rate": 2,
+    "uncommon_name": "Scimitar",
+    "uncommon_rate": 16
+}, {
+    "name": "Lion",
+    "id": 262,
+    "base_rate": 64,
+    "rare_name": "Fist of Tulkas",
+    "rare_rate": 6,
+    "uncommon_name": "Gauntlet",
+    "uncommon_rate": 16
+}, {
+    "name": "Tin man",
+    "id": 264,
+    "base_rate": 64,
+    "rare_name": "Mojo mail",
+    "rare_rate": 4,
+    "uncommon_name": "Lunch A",
+    "uncommon_rate": 16
+}, {
+    "name": "Cloaked knight",
+    "id": 271,
+    "base_rate": 32,
+    "rare_name": "Heaven sword",
+    "rare_rate": 1,
+    "uncommon_name": "Flamberge",
+    "uncommon_rate": 16
+}, {
+    "name": "Fishhead",
+    "id": 277,
+    "base_rate": 64,
+    "rare_name": "Icebrand",
+    "rare_rate": 8,
+    "uncommon_name": "Resist ice ",
+    "uncommon_rate": 32
+}, {
+    "name": "Karasuman",
+    "id": 280,
+    "base_rate": 64,
+    "rare_name": "Ring of Feanor",
+    "rare_rate": 2,
+    "uncommon_name": "Resist dark",
+    "uncommon_rate": 24
+}, {
+    "name": "Imp",
+    "id": 284,
+    "base_rate": 64,
+    "rare_name": "King's stone",
+    "rare_rate": 4,
+    "uncommon_name": "Luck potion",
+    "uncommon_rate": 32
+}, {
+    "name": "Medusa Head (Lv7)",
+    "id": 303,
+    "base_rate": 32,
+    "rare_name": "Medusa shield",
+    "rare_rate": 1,
+    "uncommon_name": "Resist stone",
+    "uncommon_rate": 10
+}, {
+    "name": "Medusa Head (Lv8)",
+    "id": 304,
+    "base_rate": 32,
+    "rare_name": "Medusa shield",
+    "rare_rate": 1,
+    "uncommon_name": "Resist stone",
+    "uncommon_rate": 10
+}, {
+    "name": "Archer",
+    "id": 305,
+    "base_rate": 64,
+    "rare_name": "Vorpal blade",
+    "rare_rate": 1,
+    "uncommon_name": "Heart Refresh",
+    "uncommon_rate": 4
+}, {
+    "name": "Scarecrow",
+    "id": 322,
+    "base_rate": 64,
+    "rare_name": "Muramasa",
+    "rare_rate": 1,
+    "uncommon_name": "Javelin",
+    "uncommon_rate": 24
+}, {
+    "name": "Schmoo",
+    "id": 323,
+    "base_rate": 64,
+    "rare_name": "Crissaegrim",
+    "rare_rate": 1,
+    "uncommon_name": "Ramen",
+    "uncommon_rate": 8
+}, {
+    "name": "Killer Fish",
+    "id": 350,
+    "base_rate": 64,
+    "rare_name": "Sushi",
+    "rare_rate": 2,
+    "uncommon_name": "Aquamarine",
+    "uncommon_rate": 32
+}, {
+    "name": "Minotaur",
+    "id": 386,
+    "base_rate": 64,
+    "rare_name": "Fury plate",
+    "rare_rate": 4,
+    "uncommon_name": "Sirloin",
+    "uncommon_rate": 16
+}, {
+    "name": "Werewolf",
+    "id": 389,
+    "base_rate": 64,
+    "rare_name": "Yasutsuna",
+    "rare_rate": 1,
+    "uncommon_name": "Iron Fist",
+    "uncommon_rate": 8
+}, {
+    "name": "Blue Venus Weed (100HP)",
+    "id": 392,
+    "base_rate": 64,
+    "rare_name": "Heart Refresh",
+    "rare_rate": 4,
+    "uncommon_name": "Zwei hander",
+    "uncommon_rate": 16
+}, {
+    "name": "Blue Venus Weed (550HP)",
+    "id": 393,
+    "base_rate": 64,
+    "rare_name": "Heart Refresh",
+    "rare_rate": 4,
+    "uncommon_name": "Zwei hander",
+    "uncommon_rate": 16
+}, {
+    "name": "Guardian",
+    "id": 396,
+    "base_rate": 64,
+    "rare_name": "God's Garb",
+    "rare_rate": 2,
+    "uncommon_name": "Great Sword",
+    "uncommon_rate": 1
+}
+]
